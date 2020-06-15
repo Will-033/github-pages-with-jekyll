@@ -1,3 +1,7 @@
+---
+title: "Welcome to my blog"
+date: 2020-06-15
+---
 Brag sheet
 
 1. I play soccer. I have been playing for about eleven years now. I play for the township team. It is extremely fun and exciting.
