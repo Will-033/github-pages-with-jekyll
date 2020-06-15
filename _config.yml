@@ -1,12 +1,13 @@
-title: My Blog
-author: William Anil
-email: wanil@ebnet.org
+title: Your awesome title
+author: GitHub User
+email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Welcome to my new website, I am a tenth grader who goes to East Brunwcik High school. Here you can find my social media accounts and my "brag sheet".
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 
 # social links
-Snapchat: b4obama
-Instagram: w_i_l_l_0_3_3
+twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme: minima
